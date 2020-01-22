@@ -10,9 +10,8 @@ External Requirements: This game was created from python3.4 so python3.4
 must be installed in order to run the game if you plan run from the
 python scrips
 
-setup and installation:If you are using the plain script files, you do
-not need to do anymore setup and can run the the game from the python
-idle by running the eonshooter python file or from the commandline
+setup and installation:
+This game requires pygame to be installed in order to run
 
 >python EonFlyer
 
